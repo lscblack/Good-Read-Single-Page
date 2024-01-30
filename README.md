@@ -3,6 +3,8 @@
 Welcome to the Good Read Single Page repository! This project is a straightforward implementation of a single-page clone for the GoodRead Store using HTML and CSS. The aim is to recreate the essential structure and layout of the GoodReads website, offering a familiar and user-friendly interface for book enthusiasts.
 ### Live Preview
 https://lscblack.github.io/Good-Read-Single-Page/
+## Screen Shot
+![image](https://github.com/lscblack/Good-Read-Single-Page/assets/141139366/e5d841bf-310b-4c06-82be-ddc26ade557e)
 
 ## Features:
 
